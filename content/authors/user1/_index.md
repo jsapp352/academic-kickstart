@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Mario Andretti
 
 # Username (this should match the folder name)
 authors:
-- admin
+- user1
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Artificial Interrogation
 
 # Organizations/Affiliations
 organizations:

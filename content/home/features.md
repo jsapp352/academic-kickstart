@@ -2,10 +2,10 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
+title = "Hardware-based Neural Network"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -18,18 +18,18 @@ subtitle = ""
   icon = "sort-alpha-up"
   icon_pack = "fas"
   name = "Inputs"
-  description = "Classifies sets of any three different handwritten characters"
+  description = "Classifies any set of three different handwritten characters"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Accuracy"
+  description = "Prediction accuracy ranges from 86 to 97%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "microchip"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Construction"
+  description = "Built from common CMOS components, without any custom VLSI"
 
 +++
