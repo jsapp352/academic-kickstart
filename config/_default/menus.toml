@@ -5,17 +5,17 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "#hero"
   weight = 10
-
-[[main]]
-  name = "Documents"
-  url = "#posts"
-  weight = 20
 
 [[main]]
   name = "Videos"
   url = "#videos"
+  weight = 20
+
+[[main]]
+  name = "Papers"
+  url = "#papers"
   weight = 30
 
 [[main]]
@@ -24,8 +24,8 @@
   weight = 40
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
+  name = "Project Files"
+  url = "#archive"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.

@@ -17,7 +17,7 @@ hero_media = "taco_cat_art_with_fill_white_connectors.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "darkslategray"
+  color = "black"
   
   # Background gradient.
   # gradient_start = "#4bb4e3"
@@ -25,9 +25,9 @@ hero_media = "taco_cat_art_with_fill_white_connectors.png"
   
   # Background image.
   image = "tacocat_motherboard.jpeg"  # Name of image in `static/img/`.
-  image_darken = 1.0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
+  image_position = "right"  # Options include `left`, `center` (default), or `right`.
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
@@ -37,22 +37,20 @@ hero_media = "taco_cat_art_with_fill_white_connectors.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://sourcethemes.com/academic/docs/install/"
+  url = "publication/conference-paper"
   label = "Whitepaper"
   
 [cta_alt]
-  url = "#videos"
+  url = "video/project-demo/"
   label = "Video Demonstration"
   icon_pack = "fas"
   icon = "View Documentation"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-#  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+label = "A hardware-based neural network accelerator built from CMOS components that can be trained to recognize any set of three handwritten characters."
 +++
 
 **Trainable Acceleration of Classification Operations via Commonly Available Technology**
-
-A hardware-based neural network accelerator built from CMOS components that can be trained to recognize any set of three handwritten characters.
 
 <!-- <span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span> -->
