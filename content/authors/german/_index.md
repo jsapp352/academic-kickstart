@@ -18,12 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Low-Voltage Analog or Mixed-Signal Circuit Design
 
 interests:
-- Night Blogging
-- Sanitary Handshakes
-- Cruising
+- Low-Voltage Analog Circuit Design
+- Mixed-Signal Circuit Design
 
 education:
   courses:
@@ -38,16 +37,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'mailto:german.romero@ieee.org'
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.linkedin.com/in/germanromerocastro/
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,5 +64,9 @@ email: ""
 user_groups:
 - Authors
 ---
+​
+German is an Electrical Engineering student who enjoys working on hardware projects involving analog or mixed-signal circuit design and testing. He also enjoys modeling and testing new emerging devices. He became interested in these subjects while assisting with research at UCF's MIST Center working under Dr. Jiann-Shiun Yuan.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He was the former 2018-2019 Chair of the UCF IEEE Student Chapter, where he conducted several electronics workshops and proffessional development events for UCF's ECE Students and IEEE members. He also served as a tutor and lab assistant for Electronics classes in UCF's Depertment of Electrical and Computer Engineering.
+
+German plans to become a full-time Analog Circuit Design/Test Engineer after graduating in May 2020. 
