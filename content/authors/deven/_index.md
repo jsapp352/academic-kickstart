@@ -18,12 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include analog design and audio signal processing.
 
 interests:
-- Night Blogging
-- Sanitary Handshakes
-- Cruising
+- Analog Circuitry
+- Audio Engineering
 
 education:
   courses:
@@ -38,16 +37,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: "mailto:deven.morone@ieee.org"
+# icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+# icon: google-scholar
+# icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,4 +62,6 @@ user_groups:
 - Authors
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Deven is an Electrical Engineering student who enjoys working on analog and digital projects involving audio signal processing. Music has always been a driving passion in his life and he continues to relate his studies to audio engineering.
+
+Deven plans on becoming an analog design/test engineer upon graduation.
