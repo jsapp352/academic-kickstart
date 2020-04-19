@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Project Report for Senior Design I"
-authors: []
-date: 2020-04-18T22:55:25-04:00
+authors: [luke, deven, german, justin]
+date: 2019-12-03T22:55:25-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,10 +19,10 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: "A preliminary design document for the 100-pixel TACOCAT neural network. Also includes design and test results for small-scale 4-pixel prototype network. 122 pages."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "A preliminary design document for the 100-pixel TACOCAT neural network. Also includes design and test results for small-scale 4-pixel prototype network. 122 pages."
 
 tags: []
 categories: []
@@ -42,7 +42,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: "files/sd1-paper.docx"
 url_video:
 
 # Featured image
