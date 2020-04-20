@@ -1,6 +1,8 @@
 ---
 # Display name
 title: Luke Minks
+firstname: Luke
+lastname: Minks
 
 # Username (this should match the folder name)
 authors:

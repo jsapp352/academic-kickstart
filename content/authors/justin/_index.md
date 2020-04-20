@@ -1,6 +1,8 @@
 ---
 # Display name
 title: Justin Sapp
+firstname: Justin
+lastname: Sapp
 
 # Username (this should match the folder name)
 authors: 

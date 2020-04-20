@@ -1,6 +1,8 @@
 ---
 # Display name
 title: Deven Morone
+firstname: Deven
+lastname: Morone
 
 # Username (this should match the folder name)
 authors:

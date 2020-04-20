@@ -1,6 +1,8 @@
 ---
 # Display name
 title: German Romero Castro
+firstname: German
+lastname: Romero Castro
 
 # Username (this should match the folder name)
 authors: 
