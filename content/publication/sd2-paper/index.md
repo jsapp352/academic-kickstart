@@ -22,7 +22,7 @@ publication_short: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "The final design documentation for the TACOCAT project. 128 pages."
 
 tags: []
 categories: []
@@ -42,7 +42,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: "files/sd2-paper.docx"
 url_video:
 
 # Featured image

@@ -5,7 +5,7 @@
 
 [[main]]
   name = "Home"
-  url = "#"
+  url = "#hero"
   weight = 10
 
 [[main]]
@@ -27,6 +27,11 @@
   name = "Team"
   url = "#people"
   weight = 40
+
+[[main]]
+  name = "Files"
+  url = "archive/"
+  weight = 50
 
 #[[main]]
 #  name = "Project Files"

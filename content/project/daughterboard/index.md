@@ -31,7 +31,7 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-url_source: "files/dbfinal.zip"
+url_cad: "files/dbfinal.zip"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

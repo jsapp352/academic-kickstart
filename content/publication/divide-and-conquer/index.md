@@ -22,7 +22,7 @@ publication_short: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "The original proposal for the TACOCAT project. This document includes early system design plans as well as estimates for the project schedule and budget."
+summary: "The original proposal for the TACOCAT project. This document includes early system design plans as well as estimates for the project schedule and budget. 8 pages."
 
 tags: []
 categories: []
