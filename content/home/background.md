@@ -52,7 +52,7 @@ subtitle = ""
 
 ## Problem
 
-- Many useful software-based neural network models are too large and slow to be implemented on mobile devices. Hardware-based neural network accelerators may soon allow these tasks to run on phones and tablets without sending data to the cloud.
+- Many useful software-based neural network models are too large and slow to be implemented on mobile devices. Hardware-based neural network accelerators may soon allow these models to run on phones and tablets without sending data to the cloud.
 
 - We were interested in building an experimental hardware-based neural network, but all of the research designs that we found used hardware that is not yet commercially available, such as memristor crossbar arrays.
 

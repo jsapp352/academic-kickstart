@@ -1,0 +1,34 @@
+/*************************************************
+ *  Compact (stream) list view
+ **************************************************/
+
+.media.stream-item {
+  margin-bottom: 2rem;
+}
+
+.media.stream-item .article-title,
+.card-simple .article-title {
+  font-size: 1.2rem;
+}
+
+.media.stream-item .article-style,
+.card-simple .article-style {
+  margin-top: 2px;
+  font-size: 0.8rem;
+}
+
+.media.stream-item .stream-meta {
+  margin-top: 12px;
+}
+
+.media.stream-item img {
+  max-width: 300px;
+  height: auto;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 768px) {
+  .media.stream-item img {
+    max-width: 80px;
+  }
+}
