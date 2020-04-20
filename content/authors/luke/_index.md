@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include MEMS devices and analog computation.
 
 interests:
-- Night Blogging
-- Sanitary Handshakes
-- Cruising
+- MEMS hardware
+- Analog computation
+- Nonvolatile memory devices
 
 education:
   courses:
@@ -38,16 +38,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: 'mailto:lminks@knights.ucf.edu'  # For a direct email link, use "mailto:test@example.org".
+#- icon: twitter
+#  icon_pack: fab
+#  link: 
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: 
+#- icon: github
+#  icon_pack: fab
+#  link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,4 +63,6 @@ user_groups:
 - Authors
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Luke is a fourth-generation Electrical Engineering student at the University of Central Florida. His elective coursework has covered power generation and distribution, analog and digital signal processing, and low-level computer architecture.
+
+He plans to pursue a Master's degree in electrical engineering at the University of Central Florida with research focused on novel MEMS devices. 
