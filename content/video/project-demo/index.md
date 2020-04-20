@@ -6,7 +6,7 @@ authors = ["luke", "deven", "german", "justin"]
 # categories = [ ]
 # tags = [ ]
 
-url_source = "www.google.com"
+url_source = "files/project-demo.pptx"
 
 [image]
    preview_only="true"

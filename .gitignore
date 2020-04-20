@@ -4,3 +4,6 @@
 # Hugo
 resources/
 public/
+
+# Senior design...
+*.pptx

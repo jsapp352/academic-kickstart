@@ -66,6 +66,9 @@ user_groups:
 
 Justin is a Computer Engineering student who enjoys working on both software and hardware design projects. He became interested in neuromorphic computing while assisting with research at UCF's [Computer Architecture Laboratory](https://cal.ucf.edu) under Dr. Ronald DeMara.
 
-As a member of UCF's first [F1Tenth](https://f1tenth.org) autonomous racing competition team, he specialized in writing the autonomous control algorithms for the race vehicle. He has also served as an undergraduate teaching assistant for **Intro to C** and **Computer Science I** classes in UCF's Department of Computer Science.
+As a member of UCF's first [F1Tenth](https://f1tenth.org) autonomous racing competition team, he specialized in writing the autonomous control algorithms used by the team's race vehicle. He has also served as an undergraduate teaching assistant for **Intro to C** and **Computer Science I** classes in UCF's Department of Computer Science.
 
-Justin currently works as a software engineering intern at Powerteq LLC's Sanford, Florida, location, where he plans to become a full-time software engineer after graduating in May 2020.
+Justin currently works as a software engineering intern at Powerteq LLC's Sanford, Florida, location, where he plans to become a full-time software engineer after graduating in May 2020.<br /><br />
+
+#### **Publications**
+S. D. Pyle, J. D. Sapp, R. F. DeMara (2019). [Leveraging Stochasticity for In Situ Learning in Binarized Deep Neural Networks](https://ieeexplore.ieee.org/document/8713831). _Computer_.
