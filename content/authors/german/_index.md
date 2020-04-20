@@ -67,6 +67,6 @@ user_groups:
 ​
 German is an Electrical Engineering student who enjoys working on hardware projects involving analog or mixed-signal circuit design and testing. He also enjoys modeling and testing new emerging devices. He became interested in these subjects while assisting with research at UCF's MIST Center working under Dr. Jiann-Shiun Yuan.
 
-He was the former 2018-2019 Chair of the UCF IEEE Student Chapter, where he conducted several electronics workshops and proffessional development events for UCF's ECE Students and IEEE members. He also served as a tutor and lab assistant for Electronics classes in UCF's Department of Electrical and Computer Engineering.
+He was the former 2018-2019 Chair of the UCF IEEE Student Chapter, where he conducted several electronics workshops and professional development events for UCF's ECE Students and IEEE members. He also served as a tutor and lab assistant for Electronics classes in UCF's Department of Electrical and Computer Engineering.
 
 German plans to become a full-time Analog Circuit Design/Test Engineer after graduating in May 2020. 
