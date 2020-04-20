@@ -39,5 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
+- The TACOCAT software is written in Python 3.7. It contains modules for loading image data, training a neural network (software- or hardware-based), simulating a hardware-based neural network with SPICE, and connecting to the TACOCAT neural network's microcontroller.
 Design Lead: [Justin]({{< ref "justin" >}})

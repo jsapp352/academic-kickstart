@@ -40,7 +40,7 @@ url_video: ""
 slides: ""
 ---
 - Firmware for the STM32H743 microcontroller was written in C.
-- The STM32CubeMX tool was used to generate the source code project, including header files and source code for peripheral initialization and pin assignment.
+- The microcontroller acts as an interface between the software-based training algorithm and the neural network hardware, mediating the exchange of weight values, input data, and neuron outputs between the two entities.
 
 
 Design Lead: [Justin]({{< ref "justin" >}})
