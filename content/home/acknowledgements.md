@@ -40,7 +40,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["50px", "0", "50px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-The members of Group 31 would like to give special thanks to Dr. Chung Yong Chan, who was instrumental in this group's success from start to finish. Dr. Chan generously provided support, guidance, and a voice of reason throughout the entire duration of the project, and we will remain grateful for his invaluable mentorship.
+The members of Group 31 would like to give special thanks to Dr. Chung Yong Chan, who was instrumental in the group's success from start to finish. Dr. Chan generously provided support, guidance, and a voice of reason throughout the entire duration of the project, and we will remain grateful for his invaluable mentorship.
 
 
 

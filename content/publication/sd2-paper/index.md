@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Project Report for Senior Design II"
-authors: []
+authors: [luke,deven,german,justin]
 date: 2020-04-18T22:55:31-04:00
 doi: ""
 
