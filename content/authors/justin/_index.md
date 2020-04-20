@@ -66,6 +66,6 @@ user_groups:
 
 Justin is a Computer Engineering student who enjoys working on both software and hardware design projects. He became interested in neuromorphic computing while assisting with research at UCF's [Computer Architecture Laboratory](https://cal.ucf.edu) under Dr. Ronald DeMara.
 
-He was a member of UCF's first team to enter the [F1Tenth](https://f1tenth.org) autonomous racing competition, where he specialized in writing the autonomous control algorithms for the racing vehicle. He has also served as an undergraduate teaching assistant for Intro to C and Computer Science I classes in UCF's Department of Computer Science.
+As a member of UCF's first [F1Tenth](https://f1tenth.org) autonomous racing competition team, he specialized in writing the autonomous control algorithms for the race vehicle. He has also served as an undergraduate teaching assistant for **Intro to C** and **Computer Science I** classes in UCF's Department of Computer Science.
 
 Justin currently works as a software engineering intern at Powerteq LLC's Sanford, Florida, location, where he plans to become a full-time software engineer after graduating in May 2020.

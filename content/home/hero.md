@@ -48,7 +48,7 @@ hero_media = "taco_cat_art_with_fill_white_connectors.png"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = "A hardware-based machine learning accelerator built from ordinary components. The TACOCAT neural network can be trained to recognize any set of three handwritten characters."
+  label = "TACOCAT is a hardware-based machine learning accelerator built from ordinary components. Its neural network can be trained to recognize any set of three handwritten characters. When tested with five different three-letter subsets of the alphabet, prediction accuracy test results ranged from 86 to 97%"
 +++
 
 **Trainable Acceleration of Classification Operations via Commonly Available Technology**
