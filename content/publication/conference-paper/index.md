@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Conference Paper"
+title: "TACOCAT Whitepaper"
 authors: [luke, deven, german, justin]
 date: 2020-04-18T22:59:11-04:00
 doi: ""
