@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "files/Tacocat_STM32_v_0_0_2.zip"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""

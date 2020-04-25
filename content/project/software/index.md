@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "files/Hardware_EMNIST_MLP.zip"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""

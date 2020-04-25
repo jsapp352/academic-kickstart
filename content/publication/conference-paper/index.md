@@ -42,7 +42,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source: "files/conference-paper-latex.zip"
+url_source:
 url_video:
 
 # Featured image

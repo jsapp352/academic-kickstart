@@ -6,8 +6,6 @@ authors = ["luke", "deven", "german", "justin"]
 # categories = [ ]
 # tags = [ ]
 
-url_source = "files/review-presentation.pptx"
-
 [image]
    preview_only="true"
 +++
